@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning online courses
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogo-san)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogo-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gogo-san/gogo-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
