@@ -1,5 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning online courses
+-  I’m currently learning online courses🌱
+
+**My Tech Stack**✨
+
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 
 |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogo-san&layout=compact&theme=buefy&hide_border=true" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gogo-san&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="gogosan's github stats" /></a> |
