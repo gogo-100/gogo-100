@@ -13,7 +13,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-gamma-68.vercel.app/api/top-langs/?username=gogo-san&layout=compact&theme=&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=gogo-san.github.io,repo2&&langs_count=8&hide=lannguage1,language2" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-gamma-68.vercel.app/api?username=gogo-san&show_icons=true&include_all_commits=false&theme=&hide_border=true" alt="gogosan's github stats" /></a> |
+|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-qiqrkg74z-gogo-san.vercel.app/api/top-langs/?username=gogo-san&layout=compact&theme=&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=gogo-san.github.io,repo2&&langs_count=6&hide=lang1,lang2" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-qiqrkg74z-gogo-san.vercel.app/api?username=gogo-san&show_icons=true&include_all_commits=false&theme=&hide_border=true" alt="gogosan's github stats" /></a> |
 | ------------- | ------------- |
 |<img src="https://leetcode-stats-six.vercel.app/?username=gogo-san">|<img align=right src="https://github-profile-trophy.vercel.app/?username=gogo-san&row=2&column=4&theme=flat&no-frame=true">|
 
