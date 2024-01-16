@@ -4,7 +4,7 @@
 🤍**Only programming classes with assignments are included**
 
 ### 1. Duke-Introductory-C-Programming
-[🔗website](https://www.coursera.org/specializations/c-programming)               [🔗repo](https://github.com/gogo-san/Duke-Introductory-C-Programming)
+[🔗website](https://www.coursera.org/specializations/c-programming)               [🔗repo](https://github.com/gogo-100/Duke-Introductory-C-Programming)
 - [x] Programming Fundamentals
 - [x] Writing, Running, and Fixing Code in C
 - [x] Pointers, Arrays, and Recursion
@@ -13,12 +13,12 @@
 ✨**learned:** have a better understanding of pointers and memory, can use gdb, cmake and valgrind.
 
 ### 2. Harvard-CS50P
-[🔗website](https://cs50.harvard.edu/python/2022/)               [🔗repo](https://github.com/gogo-san/CS50P)
+[🔗website](https://cs50.harvard.edu/python/2022/)               [🔗repo](https://github.com/gogo-100/CS50P)
 
 ✨**learned:** improve Python skill.
 
 ### 3. UCB-CS61A
-[🔗website](https://inst.eecs.berkeley.edu/~cs61a/fa22/)               [🔗repo](https://github.com/gogo-san/CS61A)
+[🔗website](https://inst.eecs.berkeley.edu/~cs61a/fa22/)               [🔗repo](https://github.com/gogo-100/CS61A)
 - [x] Dice game
 - [x] Typing game
 - [x] Simplified version of Plants vs. Zombies
