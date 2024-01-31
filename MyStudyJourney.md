@@ -12,16 +12,16 @@
 
 ✨**learned:** have a better understanding of pointers and memory, can use gdb, cmake and valgrind.
 
-### 2. Harvard-CS50P
+### 2. Harvard-CS50P: Introduction to Programming with Python 
 [🔗website](https://cs50.harvard.edu/python/2022/)               [🔗repo](https://github.com/gogo-100/CS50P)
 
 ✨**learned:** improve Python skill.
 
-### 3. UCB-CS61A
+### 3. UCB-CS61A: Structure and Interpretation of Computer Programs
 [🔗website](https://inst.eecs.berkeley.edu/~cs61a/fa22/)               [🔗repo](https://github.com/gogo-100/CS61A)
 - [x] Dice game
 - [x] Typing game
 - [x] Simplified version of Plants vs. Zombies
 - [x] Scheme interpreter
 
-✨**learned:** have learned and practiced concepts such as higher-order functions, lambda expressions, yield, macros, tail calls, tree, recursion, interpreter and so on, improved Python skills.
+✨**learned:** have learned and practiced concepts such as higher-order functions, lambda expressions, yield, macros, tail calls, tree, recursion, interpreter and so on, improved Python skills, finished a toy Scheme interpreter project.
