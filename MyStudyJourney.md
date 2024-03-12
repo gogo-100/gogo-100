@@ -42,3 +42,11 @@
 - [x] BERT, attention
 
 ✨**learned:** learned basic AI knowledge and finished 12 interesting projects.
+
+### 5. Coursera Machine Learning
+[🔗website](https://www.coursera.org/specializations/machine-learning-introduction)               [🔗repo](https://github.com/gogo-100/MachineLearning)
+- [x] Supervised Machine Learning: Regression and Classification
+- [x] Advanced Learning Algorithms
+- [x] Unsupervised Learning, Recommenders, Reinforcement Learning
+
+✨**learned:** learned some machine learning concepts.
